@@ -18,6 +18,9 @@
 #JReleaser
 out/
 
+# Rust
+/**/target
+
 # 1BRC
 data/measurements.txt
 out_expected.txt
